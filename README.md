@@ -43,7 +43,7 @@ sh download_data_pytorch.sh
 
 # 2. Train a model
 export PYTHONPATH=$PYTHONPATH:$(pwd)
-python benchmark/main.py ml_track_framework=tensorboard
+python benchmark/main_tensorboard.py
 ```
 
 ## :hammer: Results
