@@ -1,6 +1,6 @@
 # Benchmark ML Experiment Tracking Tools
 
-![GitHub](https://img.shields.io/github/license/MLSysOps/TorchScene) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/MLSysOps/TorchScene) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/MLSysOps/TorchScene)
+![GitHub](https://img.shields.io/github/license/breezeml/ml_exp_tracking_benchmark) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/breezeml/ml_exp_tracking_benchmark) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/breezeml/ml_exp_tracking_benchmark)
 
 This repo is a benchmark for ML experiment tracking tools. We build some ML projects from scratch and upgrade them with different experiment tracking tools. The goal is to provide a detailed comparison of different experiment tracking tools, so users can choose the best one for their projects.
 
